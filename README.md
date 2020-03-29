@@ -1,4 +1,6 @@
 # Superheroes
+Playground for Marvel and DC super heroes
+Dataset from : https://www.kaggle.com/fivethirtyeight/fivethirtyeight-comic-characters-dataset
 
 ## Comic Characters
 
